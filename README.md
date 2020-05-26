@@ -42,9 +42,13 @@ Open the "demo.m" script and point to your input image in the "imread" command. 
 
 Once processed, the partial and final results are saved on the *"./out"* folder.
 
+### Dataset
+
+The dataset used in the article, OceanDark, can be accessed at [OceanDark](https://sites.google.com/view/oceandark/home).
+
 ### Repo author
 
-Tunai Porto Marques (tunaip@uvic.ca), www.tunaimarques.com 
+Tunai Porto Marques (tunaip@uvic.ca), [Website](www.tunaimarques.com) 
 
 
 
