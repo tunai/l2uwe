@@ -6,6 +6,10 @@
 %  
 % By Tunai Porto Marques, 2020 (tunaimarques.com)
 
+if ~exist("./out", 'dir')
+       mkdir("./out")
+end
+
 addpath("./third party/")
 addpath("./utils/")
 
@@ -14,7 +18,7 @@ clc; close all; clear;
 %% Collection of input parameters
 
 % choose the input image
-img_original = imread('./data/181.png');
+img_original = imread('./data/181.jpg');
 
 % to standardize calculations, the image has to be 3-channel and type uint8
 if ~(isa(img_original,'uint8'))
