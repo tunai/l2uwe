@@ -38,9 +38,9 @@ The framework was tested on MATLAB version R2019b.
 
 ### Demo script
 
-Open the "demo.m" script and point to your input image in the "imread" command. Some sample low-lighting underwater and aerial images are already provided in the *"./data"* folder. 
+Open the *"demo.m"* script and point to your input image in the *"imread"* command. Some sample low-lighting underwater and aerial images are already provided in the *"./data/"* folder. 
 
-Once processed, the partial and final results are saved on the *"./out"* folder.
+Once processed, the partial and final results are saved on the *"./out/"* folder.
 
 ### Dataset
 
@@ -48,7 +48,7 @@ The dataset used in the article, OceanDark, can be accessed at [OceanDark](https
 
 ### Repo author
 
-Tunai Porto Marques (tunaip@uvic.ca), [Website](www.tunaimarques.com) 
+Tunai Porto Marques (tunaip@uvic.ca), [website](https://www.tunaimarques.com) 
 
 
 
