@@ -73,6 +73,8 @@ if(save_outputs == 1)
     imwrite(img_original,string(outPath)+'original.png');
 end 
 
+license('inuse')
+
 
 %% References
 % [1] L^2UWE: A Framework for the Efficient Enhancement of Low-Light 
