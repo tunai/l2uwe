@@ -34,7 +34,7 @@ If L^2UWE proves to be useful to your work, we ask that you cite its related pub
 1. MATLAB 
 2. Image Processing Toolbox 
 
-The framework was tested on MATLAB version R2019b.
+The framework was tested on MATLAB versions R2019b and R2020a.
 
 ### Demo script
 
