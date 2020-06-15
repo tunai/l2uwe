@@ -16,7 +16,7 @@ If L^2UWE proves to be useful to your work, we ask that you cite its related pub
 >      title={L2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion},    
 >      author={Porto Marques, Tunai and Branzan Albu, Alexandra},    
 >      booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},   
->      month = {June}
+>      month = {June},   
 >      year={2020}}
 >
 >    @article{porto2019contrast,    
