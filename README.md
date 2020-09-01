@@ -2,7 +2,7 @@
 
 ### L^2UWE: Low-light underwater image enhancement
 
-This repo contains the implementation of our work: [**L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion**](https://arxiv.org/abs/2005.13736), by Tunai Porto Marques and Alexandra Branzan Albu (presented at the 2020 CVPR Workshop NTIRE: New Trends in Image Restoration and Enhancement held in Seattle, June 15th).
+This repo contains the implementation of our work: [**L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion**](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Marques_L2UWE_A_Framework_for_the_Efficient_Enhancement_of_Low-Light_Underwater_CVPRW_2020_paper.html), by Tunai Porto Marques and Alexandra Branzan Albu (presented at the 2020 CVPR Workshop NTIRE: New Trends in Image Restoration and Enhancement held in Seattle, June 15th).
 
 L^2UWE uses a single image, local contrast information and a multi-scale fusion process to highlight visual features from the input that might have been originally hidden because of low-light settings.
 
@@ -15,8 +15,8 @@ If L^2UWE proves to be useful to your work, we ask that you cite its related pub
 >    @inProceedings{Marques_2020_CVPR_Workshops,    
 >      title={L2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion},    
 >      author={Porto Marques, Tunai and Branzan Albu, Alexandra},    
->      booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},   
->      month = {June},   
+>      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},   
+>      pages={538-539},   
 >      year={2020}}
 >
 >    @article{porto2019contrast,    
