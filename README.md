@@ -1,4 +1,4 @@
-<img height="343px" width="300px" align="right" src="https://i.imgur.com/fFuKV6O.png">  
+<img height="343px" width="300px" align="right" src="https://github.com/tunai/storage/blob/master/images/l2uwe/thumbnail.png?raw=true">  
 
 ### L^2UWE: Low-light underwater image enhancement
 
