@@ -44,7 +44,7 @@ Once processed, the partial and final results are saved on the *"./out/"* folder
 
 ### Dataset
 
-The dataset used in the article, OceanDark, can be accessed at [OceanDark](https://sites.google.com/view/oceandark/home).
+The dataset used in the development of L^2UWE, OceanDark, can be found in this repo at data/OceanDark2_0. Detailed information about it can be found at  [OceanDark](https://sites.google.com/view/oceandark/home).
 
 ### Repo author
 
